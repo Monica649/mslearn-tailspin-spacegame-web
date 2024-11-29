@@ -2,7 +2,7 @@ trigger:
 - main
 
 pool:
-  name: TAILSPIN0649
+  name: 'TAILSPIN0649'
 
 variables: 
   buildConfiguration: 'Release'
